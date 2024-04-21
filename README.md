@@ -1,5 +1,5 @@
 # Iran-Stock-Prediction-ML
-Iran-Stock-Prediction-ML is a Python-based project that leverages machine learning techniques to forecast stock market trends in Iran. Employing dimensionality reduction methods such as Principal Component Analysis (PCA) and Singular Value Decomposition (SVD), coupled with neural network architectures including Long Short-Term Memory (LSTM), Convolutional Neural Network (CNN), and Recurrent Neural Network (RNN), this project aims to provide accurate predictions for investors and analysts in the Iranian stock market.
+Iran-Stock-Prediction-ML is a Python-based project that leverages machine learning techniques to forecast stock market trends in Iran. Employing dimensionality reduction methods such as Principal Component Analysis (PCA), Singular Value Decomposition (SVD) and Gaussian Random Projection (GRP), coupled with neural network architectures including Long Short-Term Memory (LSTM), Convolutional Neural Network (CNN), and Recurrent Neural Network (RNN), this project aims to provide accurate predictions for investors and analysts in the Iranian stock market.
 
 ## Technologies Used
 
